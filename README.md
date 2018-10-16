@@ -1,7 +1,7 @@
 # HelloWorld
 
-|date|content|
-|....|.......|
+| Date | Content |
+|---|---|
 |16Oct|Demo tables|
 
 This is a placeholder document to describe teh content of this repository. 
