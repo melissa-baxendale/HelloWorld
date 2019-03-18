@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/melissabaxendale/melissabaxendale/_apis/build/status/melissa-baxendale.HelloWorld?branchName=master)](https://dev.azure.com/melissabaxendale/melissabaxendale/_build/latest?definitionId=1&branchName=master)
+
 # HelloWorld
 
 | Date | Content |
